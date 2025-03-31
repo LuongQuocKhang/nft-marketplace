@@ -1,0 +1,6 @@
+@nft_marketplace.Api_HostAddress = http://localhost:5108
+
+GET {{nft_marketplace.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
